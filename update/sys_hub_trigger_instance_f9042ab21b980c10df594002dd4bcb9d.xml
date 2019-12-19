@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_trigger_instance">
+    <sys_hub_trigger_instance action="INSERT_OR_UPDATE">
+        <comment/>
+        <display_text/>
+        <flow display_value="BIAS Group Owner Transfer">25632ebe1b580c10df594002dd4bcb84</flow>
+        <name>Daily</name>
+        <remote_sys_id/>
+        <sys_class_name>sys_hub_trigger_instance</sys_class_name>
+        <sys_created_by>d00r3738</sys_created_by>
+        <sys_created_on>2019-10-08 22:14:05</sys_created_on>
+        <sys_id>f9042ab21b980c10df594002dd4bcb9d</sys_id>
+        <sys_mod_count>11</sys_mod_count>
+        <sys_name>daily</sys_name>
+        <sys_package display_value="BIAS Group Owner Transfer" source="x_mscat_bias_group">d842e67a1b580c10df594002dd4bcb8d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BIAS Group Owner Transfer">d842e67a1b580c10df594002dd4bcb8d</sys_scope>
+        <sys_update_name>sys_hub_trigger_instance_f9042ab21b980c10df594002dd4bcb9d</sys_update_name>
+        <sys_updated_by>d00r3738</sys_updated_by>
+        <sys_updated_on>2019-10-16 22:33:47</sys_updated_on>
+        <trigger_definition display_value="Daily">89142dc0c32222002841b63b12d3ae8a</trigger_definition>
+        <trigger_inputs/>
+        <trigger_outputs/>
+        <trigger_type>daily</trigger_type>
+    </sys_hub_trigger_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=f9042ab21b980c10df594002dd4bcb9d"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_trigger_instance</document>
+        <document_key>f9042ab21b980c10df594002dd4bcb9d</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>d00r3738</sys_created_by>
+        <sys_created_on>2019-10-08 22:14:05</sys_created_on>
+        <sys_id>3d042ab21b980c10df594002dd4bcba0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>d00r3738</sys_updated_by>
+        <sys_updated_on>2019-10-08 22:14:05</sys_updated_on>
+        <value>1970-01-01 16:00:00</value>
+        <variable display_value="">3ad4edc0c32222002841b63b12d3aee5</variable>
+    </sys_variable_value>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_flow_cat_variable_model">
+    <sys_flow_cat_variable_model action="INSERT_OR_UPDATE">
+        <id>9e017efe1b1c0c10df594002dd4bcb89</id>
+        <name>BIAS Group Owner Transfer</name>
+        <sys_class_name>sys_flow_cat_variable_model</sys_class_name>
+        <sys_created_by>d00r3738</sys_created_by>
+        <sys_created_on>2019-10-08 23:10:55</sys_created_on>
+        <sys_id>9a017efe1b1c0c10df594002dd4bcb8a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>BIAS Group Owner Transfer</sys_name>
+        <sys_package display_value="BIAS Group Owner Transfer" source="x_mscat_bias_group">d842e67a1b580c10df594002dd4bcb8d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BIAS Group Owner Transfer">d842e67a1b580c10df594002dd4bcb8d</sys_scope>
+        <sys_update_name>sys_flow_cat_variable_model_9a017efe1b1c0c10df594002dd4bcb8a</sys_update_name>
+        <sys_updated_by>d00r3738</sys_updated_by>
+        <sys_updated_on>2019-10-08 23:10:55</sys_updated_on>
+    </sys_flow_cat_variable_model>
+</record_update>

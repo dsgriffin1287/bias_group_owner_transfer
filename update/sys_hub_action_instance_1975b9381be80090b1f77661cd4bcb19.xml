@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Is User Enabled">7a6499b693b70300eb08925cf67ffbee</action_type>
+        <action_type_parent/>
+        <comment/>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="BIAS Group Owner Transfer">25632ebe1b580c10df594002dd4bcb84</flow>
+        <order>2</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>d00r3738</sys_created_by>
+        <sys_created_on>2019-10-14 23:58:29</sys_created_on>
+        <sys_id>1975b9381be80090b1f77661cd4bcb19</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="BIAS Group Owner Transfer" source="x_mscat_bias_group">d842e67a1b580c10df594002dd4bcb8d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BIAS Group Owner Transfer">d842e67a1b580c10df594002dd4bcb8d</sys_scope>
+        <sys_update_name>sys_hub_action_instance_1975b9381be80090b1f77661cd4bcb19</sys_update_name>
+        <sys_updated_by>d00r3738</sys_updated_by>
+        <sys_updated_on>2019-10-16 22:33:47</sys_updated_on>
+        <ui_id>0550d63d-6372-4f12-8a4c-127ca8d54e4f</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=1975b9381be80090b1f77661cd4bcb19"/>
+    <sys_element_mapping action="delete_multiple" query="id=1975b9381be80090b1f77661cd4bcb19"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ah_user_name</field>
+        <id>1975b9381be80090b1f77661cd4bcb19</id>
+        <sys_created_by>d00r3738</sys_created_by>
+        <sys_created_on>2019-10-14 23:58:29</sys_created_on>
+        <sys_id>5d75b9381be80090b1f77661cd4bcb1e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>d00r3738</sys_updated_by>
+        <sys_updated_on>2019-10-14 23:58:29</sys_updated_on>
+        <table>var__m_sys_hub_action_input_7a6499b693b70300eb08925cf67ffbee</table>
+        <value>{{c7e1ad85-3037-4cae-b376-03d7561686dd.Records}}</value>
+    </sys_element_mapping>
+</record_update>
